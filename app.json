@@ -1,5 +1,5 @@
 {
-  "expo": {
+  "expo": { "android": { "useLegacyPackaging": true },
     "name": "car-cab-app",
     "slug": "car-cab-app",
     "version": "1.0.0",
